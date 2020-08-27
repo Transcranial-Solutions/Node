@@ -22,7 +22,7 @@
             "country": "Sweden",
             "city": "Karlshamn"
         },
-        "server_type": "cloud",
+        "server_type": "",
         "api_endpoint": "31.208.165.65:9000"
     }
 }
