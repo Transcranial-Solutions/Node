@@ -23,8 +23,8 @@
             "city": "Melbourne"
         },
         "server_type": "",
-        # "api_endpoint": "31.208.165.65:7100"
-        "api_endpoint": "175.45.149.14:7100"
-        "p2pEndpoint": "175.45.149.14:7100"
+        #"api_endpoint": "31.208.165.65:7100",
+        #"api_endpoint": "175.45.149.14:7100"
+        #"p2pEndpoint": "175.45.149.14:7100",
     }
 }
