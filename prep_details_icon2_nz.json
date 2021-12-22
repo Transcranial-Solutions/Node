@@ -5,6 +5,5 @@
   "email": "transcranial.solutions@gmail.com",
   "website": "https://twitter.com/TranscranialSol",
   "details": "https://github.com/Transcranial-Solutions/Node/blob/master/prep_details_icon2.json",
-  "p2pEndpoint": "mercator.transcranial-solutions.dev:7100",
-  "nodeAddress": "hxd622e807af0e4c728be88913763ae7907e46cf34"
+  "p2pEndpoint": "mercator.transcranial-solutions.dev:7100"
 }
