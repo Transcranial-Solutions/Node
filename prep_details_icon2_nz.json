@@ -4,6 +4,6 @@
   "city": "Auckland",
   "email": "transcranial.solutions@gmail.com",
   "website": "https://twitter.com/TranscranialSol",
-  "details": "https://github.com/Transcranial-Solutions/Node/blob/master/prep_details_icon2.json",
+  "details": "https://raw.githubusercontent.com/Transcranial-Solutions/Node/master/prep_details_icon2_nz.json",
   "p2pEndpoint": "mercator.transcranial-solutions.dev:7100"
 }
