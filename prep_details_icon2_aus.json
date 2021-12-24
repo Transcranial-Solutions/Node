@@ -4,6 +4,6 @@
   "city": "Melbourne",
   "email": "transcranial.solutions@gmail.com",
   "website": "https://twitter.com/TranscranialSol",
-  "details": "https://github.com/Transcranial-Solutions/Node/blob/master/prep_details_icon2_aus.json",
+  "details": "https://raw.githubusercontent.com/Transcranial-Solutions/Node/master/prep_details_icon2_aus.json",
   "p2pEndpoint": "159.196.221.33:7100"
 }
