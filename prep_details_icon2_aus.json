@@ -1,9 +1,29 @@
 {
-  "name": "Transcranial Solutions",
-  "country": "AUS",
-  "city": "Melbourne",
-  "email": "transcranial.solutions@gmail.com",
-  "website": "https://twitter.com/TranscranialSol",
-  "details": "https://raw.githubusercontent.com/Transcranial-Solutions/Node/master/prep_details_icon2_aus.json",
-  "p2pEndpoint": "159.196.221.33:7100"
+    "representative": {
+        "logo": {
+            "logo_256": "https://raw.githubusercontent.com/Transcranial-Solutions/Node/master/Transcranial_Solutions_R.png",
+            "logo_1024": "https://raw.githubusercontent.com/Transcranial-Solutions/Node/master/Transcranial_Solutions_R.png",
+            "logo_svg": "https://raw.githubusercontent.com/Transcranial-Solutions/Node/master/Transcranial_Solutions_R.png"
+        },
+        "media": {
+            "steemit": "",
+            "twitter": "https://twitter.com/TranscranialSol/",
+            "youtube": "https://www.youtube.com/channel/UCeOv5tg_S168TX-Eqqse_iw",
+            "facebook": "",
+            "github": "https://github.com/Transcranial-Solutions",
+            "reddit": "",
+            "keybase": "",
+            "telegram": "",
+            "wechat": "",
+	    "medium": "https://transcranial-solutions.medium.com/"
+        }
+    },
+    "server": {
+        "location": {
+            "country": "AUS",
+            "city": "Melbourne"
+        },
+        "server_type": "",
+        "api_endpoint": "159.196.221.33:7100"
+    }
 }
