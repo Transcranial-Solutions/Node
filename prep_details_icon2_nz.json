@@ -23,7 +23,7 @@
             "country": "NZL",
             "city": "Auckland"
         },
-        "server_type": "Bare-metal",
+        "server_type": "bare metal",
         "api_endpoint": "mercator.transcranial-solutions.dev:7100"
     }
 }
