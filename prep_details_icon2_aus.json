@@ -23,7 +23,7 @@
             "country": "AUS",
             "city": "Melbourne"
         },
-        "server_type": "Physical",
+        "server_type": "Bare-metal",
         "api_endpoint": "159.196.221.33:7100"
     }
 }
