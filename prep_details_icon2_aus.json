@@ -24,6 +24,6 @@
             "city": "Melbourne"
         },
         "server_type": "bare metal",
-        "api_endpoint": "159.196.221.33:7100"
+        "api_endpoint": "144.6.208.64:7100"
     }
 }
